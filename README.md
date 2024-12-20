@@ -67,7 +67,7 @@ As this project is part of my learning journey, I welcome suggestions and improv
 
 ## Acknowledgments
 
-I extend my gratitude to Juha Hinkula for authoring the comprehensive guide that serves as the foundation for this project.
+
 
 ---
 
